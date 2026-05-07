@@ -5,7 +5,6 @@ FILE: README.md
 
 > Instant Google Workspace security posture report — runs entirely in the browser, no backend required.
 
-Built by Steve's IT Pro.
 
 ---
 
@@ -178,4 +177,3 @@ MIT — use it, fork it, sell reports with it.
 
 ---
 
-Built with ☕ by Steve's IT Pro
