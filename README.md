@@ -5,7 +5,7 @@ FILE: README.md
 
 > Instant Google Workspace security posture report — runs entirely in the browser, no backend required.
 
-Built by [Steve's IT Pro](https://stevesitpro.com) · Fixed-price Google Workspace consulting for SMBs.
+Built by Steve's IT Pro.
 
 ---
 
@@ -141,16 +141,6 @@ Live at: `https://codingeneration.github.io/gws-health-audit/`
 
 ---
 
-## Pricing Suggestions
-
-| Tier | Audience | Price |
-|---|---|---|
-| Self-serve audit | SMBs 1–50 users | $49 |
-| Mid-market audit | 50–500 users | $149 |
-| Audit + remediation | Any size | Custom SOW |
-
----
-
 ## Project Structure
 
 ```
@@ -188,4 +178,4 @@ MIT — use it, fork it, sell reports with it.
 
 ---
 
-Built with ☕ by [Steve's IT Pro](https://stevesitpro.com)
+Built with ☕ by Steve's IT Pro
