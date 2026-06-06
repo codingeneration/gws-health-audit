@@ -136,7 +136,6 @@ Live at: `https://codingeneration.github.io/gws-health-audit/`
 2. Share the GitHub Pages URL
 3. They sign in with their Super Admin account
 4. They use **Export PDF** to save the report
-5. Use the findings as the basis for your remediation SOW via stevesitpro.com
 
 ---
 
@@ -167,7 +166,6 @@ gws-health-audit/
 - [ ] Drive external sharing policy status
 - [ ] Historical score tracking
 - [ ] Branded PDF report with client logo
-- [ ] Stripe payment gate before showing results
 
 ---
 
